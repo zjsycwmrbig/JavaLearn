@@ -34,5 +34,7 @@ public class 接口 {
     public static void main(String[] args) {
         AllCards car = new AllCards();
         car.fly();
+        // github hash
+        // make a change
     }
 }
